@@ -11,6 +11,10 @@ _description_
 > **Note**:
 > Replace `pkg-placeholder`, `_description_`globally to use this template.
 
+## Thanks
+
+Thanks to [antfu](https://github.com/antfu) for this template.
+
 ## License
 
 [MIT](./LICENSE) License © 2023-PRESENT [Merlin Alex](https://github.com/merlinalex1028)
